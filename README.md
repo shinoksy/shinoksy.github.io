@@ -1,0 +1,1 @@
+shinoksy.github.io
