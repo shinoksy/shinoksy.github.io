@@ -1,3 +1,35 @@
-.col-margin-tb {
-	margin: 20px 0;
+/*---------------Add On CSS---------------*/
+
+.title {
+	margin: 20px 0px;
+	padding: 5px;
+	color: #fff;
+	background-color: #dc3545;
+	text-align: center;
+}
+
+.items {
+	margin-bottom: 20px;
+	padding: 10px;
+	border: 1px solid #dddddd;
+}
+
+/*.btn {
+	margin: 10px auto !important;
+	display: block !important;
+}*/
+
+/*---------------Product Page CSS---------------*/
+.product-content {
+	margin: 30px;
+}
+
+.product-details {
+	margin-top: 20px;
+}
+
+.price {
+	font-size: x-large;
+	font-weight: bold;
+	color: #FF6347;
 }
