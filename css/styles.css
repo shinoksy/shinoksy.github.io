@@ -14,6 +14,11 @@
 	border: 1px solid #dddddd;
 }
 
+.price {
+	color: red;
+	font-weight: bold;
+}
+
 /*.btn {
 	margin: 10px auto !important;
 	display: block !important;
